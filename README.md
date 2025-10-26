@@ -29,10 +29,9 @@ A complete command-line toolkit for Windows diagnostics, performance tuning, and
 ---
 
 ## 🧩 How to Use
-1. Download `SystemToolkit.bat`  
+1. Download  
 2. Right-click → **Run as Administrator**  
 3. Follow the menu to select an option (1–23)  
-4. Logs are saved to `DiagnosticsLog.txt` in the same folder  
 
 ---
 
